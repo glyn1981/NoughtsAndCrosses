@@ -1,6 +1,6 @@
 ## ❌ NoughtsAndCrosses – `README.md`
 
-```markdown
+
 # ❌⭕ Noughts and Crosses (Tic-Tac-Toe)
 
 A simple one-player implementation of Noughts and Crosses in C# using .NET. Built as a console application to demonstrate clean coding practices and basic game logic.
