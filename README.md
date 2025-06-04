@@ -1,15 +1,44 @@
-# Noughts and Crosses 🎯
+## ❌ NoughtsAndCrosses – `README.md`
 
-A simple console-based Noughts and Crosses game implemented in C# using Object-Oriented Programming and SOLID principles.
+```markdown
+# ❌⭕ Noughts and Crosses (Tic-Tac-Toe)
 
-## 🎮 Features
+A simple one-player implementation of Noughts and Crosses in C# using .NET. Built as a console application to demonstrate clean coding practices and basic game logic.
 
-- Turn-based console game
+## 🎯 Features
+
+- Win/tie detection logic
 - Input validation
-- Win/lose detection
-- Simple Ai Opponent 
-- Clean code structure using interfaces and abstraction
+- Clear board rendering in console
 
-TODO: Ai Oponnent is easy to defeat, need to make it better.
+## 🧱 Tech Stack
 
-## 🚀 Getting Started
+- C#
+- .NET Core Console App
+- Simple OOP structure
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/glyn1981/NoughtsAndCrosses.git
+cd NoughtsAndCrosses
+dotnet build
+dotnet run```
+
+🧠 Code Highlights
+Turn manager
+Grid display logic
+Win condition evaluator
+
+## 📸 Screenshots
+Coming soon – You can capture a console screenshot of a finished game
+
+## 🔮 Planned Features
+AI player mode
+
+Scoreboard / match tracking
+
+## GUI version (optional)
+
+## 📄 License
+MIT – open for reuse and contributions
