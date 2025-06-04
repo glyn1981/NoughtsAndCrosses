@@ -23,7 +23,8 @@ A simple one-player implementation of Noughts and Crosses in C# using .NET. Buil
 git clone https://github.com/glyn1981/NoughtsAndCrosses.git
 cd NoughtsAndCrosses
 dotnet build
-dotnet run```
+dotnet run
+```
 
 🧠 Code Highlights
 Turn manager
